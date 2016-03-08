@@ -17,4 +17,4 @@ I encourage you to play the game and give me your comments. Do Send your pull re
 My Linked in page [Sharan Prakash Babu][2]
 
 [1]: https://github.com/sharanps/Monopoly/blob/master/Monopoly.pdf
-[2]: [https://www.linkedin.com/in/sharanprakashbabu]
+[2]: https://www.linkedin.com/in/sharanprakashbabu
